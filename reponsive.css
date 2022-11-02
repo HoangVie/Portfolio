@@ -1,0 +1,19 @@
+/* Full-width */
+
+@media(max-width:1023px) {
+    .header {
+        width: 750px;
+    }
+}
+
+
+/* Tablet */
+
+@media (min-width: 740px) and (max-width:1023) {
+    /* Header-reponsive */
+}
+
+
+/* Mobile */
+
+@media (max-width: 739) {}
